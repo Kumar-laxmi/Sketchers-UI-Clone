@@ -73,7 +73,7 @@ a.black-bg::before {
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: #000;
+    background-color: #0a4bac;
     transform: scaleX(0);
     transition: transform 0.3s ease;
 }
@@ -156,9 +156,9 @@ a.btn-light:hover {
 }
 
 .bg-yellow {
-    background-color: #ede734;
+    background-color: #0a4bac;
+    color: white;
     overflow: hidden;
-    color: #000;
 }
 
 .card-title-yellow {
